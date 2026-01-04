@@ -1,7 +1,7 @@
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-# X = [10,20,30,40,50]
+X = [10,20,30,40,50]
 # print(max(X))
 # m = max(X)
 # n = min(X)
